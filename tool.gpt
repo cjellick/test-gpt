@@ -1,14 +1,5 @@
-Tools: test2
+Name: poem-analyzer
+Description: Accepts text of a poem and will return a mood analysis.
+Params: The poem text to analyze
 
-Return the value of test2
-
----
-Name: test2
-Tools: test3
-
-Return the value of test3
-
----
-Name: test3
-
-Print the poem The Raven, each line as a bullet point
+Read the input poem text and describe the mood of it
