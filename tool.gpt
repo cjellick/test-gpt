@@ -1,5 +1,5 @@
 Name: poem-analyzer
 Description: Accepts text of a poem and will return a mood analysis.
-Params: The poem text to analyze
+Params: poem-text: The poem text to analyze
 
 Read the input poem text and describe the mood of it
